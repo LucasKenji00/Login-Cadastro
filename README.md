@@ -1,6 +1,5 @@
 # Login-Cadastro
-Tela de login e de cadastro com integração a um servidor local desenvolvido com express (Node.js) 
-HTML5, CSS3
+Tela de login e de cadastro com integração a um servidor local desenvolvido com express (Node.js), HTML5, CSS3
 
 ![image](https://user-images.githubusercontent.com/105383986/199878863-a6be4d76-3341-4827-b5a1-2da4d0b38fae.png)
 
